@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Xổ số Đắk Nông</string>
+    <string name="menu1">Trang Chủ</string>
+    <string name="menu2">VỀ</string>
+    <string name="menu3">CHIẾN LƯỢC</string>
+    <string name="menu4">LỜI KHUYÊN</string>
+    <string name="menu5">LỊCH SỬ</string>
+</resources>
